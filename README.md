@@ -124,13 +124,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
+GitHub: [@madscie](https://github.com/madscie)  
 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
-Email: your.email@example.com
+Email: peterkzj@gmail.com
 
 ## 🙏 Acknowledgments
 
-- Developed as part of a school assignment for [Course Name]
-- Thanks to [Instructor Name] for guidance and support
+- Developed as part of a school assignment for [Advanced Database With SQL]
+- Thanks to [Henry Sinkala] for guidance and support
 - Icons and badges from [Shields.io](https://shields.io)
 
